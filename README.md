@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/491aed38-aa9c-4f06-8830-75b4d0904592" />
+
 <h1 align="center"> Hola, soy Georgina </h1>
 <p align="center">
    <em>Del análisis de nutrientes al análisis de datos 🥗→📊</em>
@@ -9,10 +11,10 @@
 
 <p>
   <a href="www.linkedin.com/in/georgina-ordonez-data">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
+    <img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"alt="LinkedIn"/>
   </a>
   <a href="mailto:georgina.ordonez.data@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Enviar%20correo-blue" alt="Email"/>
+    <img src="![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email"/>
   </a>
 </p>
 

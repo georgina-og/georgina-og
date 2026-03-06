@@ -37,7 +37,6 @@
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -48,7 +47,6 @@
 
 ### 📁 Proyectos destacados
 
-🔹 [proyectos_bootcamp](https://github.com/RicardoAFV/portafolio)): Análisis, visualizaciones interactivas y modelos aplicados a casos reales.
 🔹 [Portafolio](https://github.com/RicardoAFV/portafolio): Análisis, visualizaciones interactivas y modelos aplicados a casos reales.
 
 ---

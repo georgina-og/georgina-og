@@ -7,22 +7,18 @@
 
 ---
 
-### 📧 ¿Conectamos?
+### ¿Conectamos?
 
-<p>
-  <a href="www.linkedin.com/in/georgina-ordonez-data">
-    <img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"alt="LinkedIn"/>
-  </a>
-  <a href="mailto:georgina.ordonez.data@gmail.com">
-    <img src="![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email"/>
-  </a>
-</p>
+👩🏽‍💻 www.linkedin.com/in/georgina-ordonez-data
+
+📧 georgina.ordonez.data@gmail.com
+    
 
 ---
 
 ### 💬 Sobre mí
  
-- 👩🏽‍💻 Recientemente graduada como Analista de Datos en TripleTen
+- 👩🏽‍💻 Graduada como Data Analyst en TripleTen
 - 📍 Vivo en Ciudad de México
 - 🌱 Estoy comenzando mi viaje en el mundo de los DATOS
 
@@ -42,7 +38,7 @@
   ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
  
 ---
-### Habilidades:
+### 🧰 Habilidades:
 - Análisis Exploratorio de Datos (EDA)
 - Data storytelling
 - Visualización de datos
@@ -56,7 +52,7 @@
 
 ---
 
-## 🌍 Languages
+## 🌍 Idiomas
 
 - 🇲🇽 **Español** – Nativo 
 - 🇬🇧 **Inglés** – Avanzado  

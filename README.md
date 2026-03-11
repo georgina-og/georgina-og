@@ -48,7 +48,7 @@
 
 ### 📁 Proyectos destacados
 
-🔹 [Portafolio](https://github.com/RicardoAFV/portafolio): Análisis, visualizaciones interactivas y modelos aplicados a casos reales.
+🔹 [Portafolio](https://github.com/georgina-og/georgina-da-portafolio/tree/main?tab=readme-ov-file): Análisis, visualizaciones interactivas y modelos aplicados a casos reales.
 
 ---
 

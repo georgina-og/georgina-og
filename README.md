@@ -2,12 +2,12 @@
 
 <h1 align="center"> Hola, soy Georgina </h1>
 <p align="center">
-   <em>Del análisis de nutrientes al análisis de datos 🥗→📊</em>
+   Del análisis de nutrientes al análisis de datos 🥗→📊
 </p>
 
 ---
 
-<h3> 📧 ¿Conectamos?</h3>
+### 📧 ¿Conectamos?
 
 <p>
   <a href="www.linkedin.com/in/georgina-ordonez-data">
@@ -21,11 +21,10 @@
 ---
 
 ### 💬 Sobre mí
-
-
-- 🌱 Estoy comenzando mi viaje en el mundo de los DATOS 
+ 
 - 👩🏽‍💻 Recientemente graduada como Analista de Datos en TripleTen
 - 📍 Vivo en Ciudad de México
+- 🌱 Estoy comenzando mi viaje en el mundo de los DATOS
 
 ---
 
@@ -41,8 +40,14 @@
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
-  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</p>
-
+ 
+---
+### Habilidades:
+- Análisis Exploratorio de Datos (EDA)
+- Data storytelling
+- Visualización de datos
+- Resolución de problemas
+- Pensamiento crítico
 ---
 
 ### 📁 Proyectos destacados
@@ -50,3 +55,9 @@
 🔹 [Portafolio](https://github.com/RicardoAFV/portafolio): Análisis, visualizaciones interactivas y modelos aplicados a casos reales.
 
 ---
+
+## 🌍 Languages
+
+- 🇲🇽 **Español** – Nativo 
+- 🇬🇧 **Inglés** – Avanzado  
+- 🇫🇷 **Francés** – Intermedio

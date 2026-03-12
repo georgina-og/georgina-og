@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hola, soy Georgina </h1>
 <p align="center">
-   Del análisis de nutrientes al análisis de datos 🥗→📊
+   "Los datos son ruido hasta que alguien hace las preguntas correctas. Te ayudo a encontrar claridad en ellos y convertirlos en decisiones que realmente importan."
 </p>
 
 ---

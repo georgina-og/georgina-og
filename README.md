@@ -3,6 +3,7 @@
 <h1 align="center"> Hola, soy Georgina </h1>
 <p align="center">
    Los datos son ruido hasta que alguien hace las preguntas correctas
+ <p align="center">  
    Te ayudo a encontrar claridad en ellos y convertirlos en decisiones que realmente importan 🎯
 </p>
 
